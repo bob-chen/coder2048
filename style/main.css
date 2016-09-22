@@ -121,7 +121,7 @@ margin: 0 auto;
   content: "经验值"; }
  
 .best-container:after {
-  content: "最高经验值"; }
+  content: "最高"; }
  
 p {
   margin-top: 0;

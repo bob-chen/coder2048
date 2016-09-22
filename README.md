@@ -16,7 +16,7 @@
 
 <p>Bob.Chen，微信公众号「程序员的诗和远方」作者，博客 <a href="http://www.imbeta.cn">Beta空间</a> 。</p>
 
-<p>体验链接：<a href="http://www.imbeta.cn/demo/coder2048/index.html"></a></p>
+<p>体验链接：<a href="http://www.imbeta.cn/demo/coder2048/index.html">码工修炼之路</a></p>
 
 <h2>Original Contributions</h2>
 
